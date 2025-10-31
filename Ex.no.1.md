@@ -66,7 +66,7 @@ Upload to GitHub Pages for free hosting.
     </ul>
   </nav>
   <section class="hero">
-    <h1>Hi, I'm Aadhi 👋</h1>
+    <h1>Hi, I'm Santhiya 👋</h1>
     <p>Welcome to my portfolio. I blend tech, design, and tradition.</p>
   </section>
 </body>
@@ -78,7 +78,7 @@ Upload to GitHub Pages for free hosting.
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Projects | Aadhi</title>
+  <title>Projects | Santhiya</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -113,7 +113,7 @@ Upload to GitHub Pages for free hosting.
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>About Me | Aadhi</title>
+  <title>About Me | Santhiya</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -184,11 +184,13 @@ nav ul li a:hover {
 ~~~
 
 ## OUTPUT
-<img width="2879" height="1549" alt="image" src="https://github.com/user-attachments/assets/4443c1fc-6b9d-4b97-b302-c87fb067b0de" />
+<img width="1911" height="916" alt="Screenshot 2025-10-31 153844" src="https://github.com/user-attachments/assets/f2dcbe0c-5619-4f39-a406-8126d631d5a2" />
 
-<img width="2868" height="1647" alt="image" src="https://github.com/user-attachments/assets/ab526a0e-a5de-431c-91d9-2b3996b80a33" />
+<img width="1908" height="917" alt="Screenshot 2025-10-31 153855" src="https://github.com/user-attachments/assets/fd57de1f-de5b-4cbe-bc76-9ba4afe29da0" />
 
-<img width="2863" height="1642" alt="image" src="https://github.com/user-attachments/assets/833ec39e-e922-4220-8aa4-257423e3a146" />
+<img width="1882" height="919" alt="Screenshot 2025-10-31 153908" src="https://github.com/user-attachments/assets/8f6a551e-4577-4000-82d0-3327e47604b5" />
+
+
 
 
 
